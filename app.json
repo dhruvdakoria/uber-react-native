@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber-clone",
-    "slug": "uber-clone",
+    "name": "uber-app",
+    "slug": "uber-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/uber.jpg",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Uber React Native App Clone",
+    "githubUrl": "https://github.com/dhruvdakoria/uber-react-native"
   }
 }
